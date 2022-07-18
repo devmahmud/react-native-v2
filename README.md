@@ -9,7 +9,7 @@ This course is originally taken by [Kadi](https://github.com/kadikraman), senior
 - Introduction
    1. [Welcome](src/01.welcome.md)
    2. [About React Native](src/02.about-rn.md)
-   3. Should you use Expo or plain React Native?
+   3. [Should you use Expo or plain React Native?](src/03.expo-vs-rn.md)
 
 - Setup
    1. [Expo] Getting started with Expo

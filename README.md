@@ -13,9 +13,9 @@ This course is originally taken by [Kadi](https://github.com/kadikraman), senior
 
 - Setup
    1. [\[Expo\] Getting started with Expo](src/04.getting-started-with-expo.md)
-   2. [RN] Getting started with plain React Native
-   3. Adding a linter
-   4. Debugging
+   2. [\[RN\] Getting started with plain React Native](src/05.getting-started-with-plain-rn.md)
+   3. [Adding a linter](src/06.adding-linter.md)
+   4. [Debugging](src/07.debugging.md)
 
 - Basic components
    1. Basic React Native components

@@ -12,7 +12,7 @@ This course is originally taken by [Kadi](https://github.com/kadikraman), senior
    3. [Should you use Expo or plain React Native?](src/03.expo-vs-rn.md)
 
 - Setup
-   1. [Expo] Getting started with Expo
+   1. [\[Expo\] Getting started with Expo](src/04.getting-started-with-expo.md)
    2. [RN] Getting started with plain React Native
    3. Adding a linter
    4. Debugging

@@ -23,7 +23,7 @@ This course is originally taken by [Kadi](https://github.com/kadikraman), senior
    3. [Styling Exercise 📝](./src/10.styling-exercise.md)
    4. [Styling Exercise Solution 👀](./src/11.styling-solution.md)
    5. [Components](./src/12.components.md)
-   6. Lists
+   6. [Lists](./src/13.lists.md)
    7. Lists Exercise 📝
    8. Lists Exercise Solution 👀
 

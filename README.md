@@ -21,7 +21,7 @@ This course is originally taken by [Kadi](https://github.com/kadikraman), senior
    1. [Basic React Native components](./src/08.basic-rn-components.md)
    2. [Styling](./src/09.styling.md)
    3. [Styling Exercise 📝](./src/10.styling-exercise.md)
-   4. Styling Exercise Solution 👀
+   4. [Styling Exercise Solution 👀](./src/11.styling-solution.md)
    5. Components
    6. Lists
    7. Lists Exercise 📝

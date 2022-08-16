@@ -24,8 +24,8 @@ This course is originally taken by [Kadi](https://github.com/kadikraman), senior
    4. [Styling Exercise Solution 👀](./src/11.styling-solution.md)
    5. [Components](./src/12.components.md)
    6. [Lists](./src/13.lists.md)
-   7. Lists Exercise 📝
-   8. Lists Exercise Solution 👀
+   7. [Lists Exercise 📝](./src/14.lists-exercise.md)
+   8. [Lists Exercise Solution 👀](./src/15.lists-exercise-solution.md)
 
 - Navigation
    1. Navigation Intro

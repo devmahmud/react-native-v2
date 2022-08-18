@@ -28,7 +28,7 @@ This course is originally taken by [Kadi](https://github.com/kadikraman), senior
    8. [Lists Exercise Solution 👀](./src/15.lists-exercise-solution.md)
 
 - Navigation
-   1. Navigation Intro
+   1. [Navigation Intro](./src/16.navigation-intro.md)
    2. [Expo] Adding navigation with Expo
    3. [RN] Adding navigation with plain React Native
    4. Adding Navigation

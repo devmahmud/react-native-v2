@@ -32,8 +32,8 @@ This course is originally taken by [Kadi](https://github.com/kadikraman), senior
    2. [[Expo] Adding navigation with Expo](./src/17.adding-navigation-expo.md)
    3. [[RN] Adding navigation with plain React Native](./src/18.adding-navigation-plain-rn.md)
    4. [Adding Navigation](./src/19.adding-navigation.md)
-   5. Navigation Exercise 📝
-   6. Navigation Exercise Solution 👀
+   5. [Navigation Exercise 📝](./src/20.navigation-exercise.md)
+   6. [Navigation Exercise Solution 👀](./src/21.navigation-exercise-solution.md)
 
 - Hooks and Network Requests
   1. useState, useCallback, useEffect

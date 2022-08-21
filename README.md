@@ -37,7 +37,7 @@ This course is originally taken by [Kadi](https://github.com/kadikraman), senior
 
 - Hooks and Network Requests
   1. [useState, useCallback, useEffect](./src/22.hooks.md)
-  2. Network Requests Exercise 📝
+  2. [Network Requests Exercise 📝](./src/23.network-requests-exercise.md)
   3. Network Requests Exercise Solution 👀
   4. Pull to refresh
 

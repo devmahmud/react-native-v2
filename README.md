@@ -31,7 +31,7 @@ This course is originally taken by [Kadi](https://github.com/kadikraman), senior
    1. [Navigation Intro](./src/16.navigation-intro.md)
    2. [[Expo] Adding navigation with Expo](./src/17.adding-navigation-expo.md)
    3. [[RN] Adding navigation with plain React Native](./src/18.adding-navigation-plain-rn.md)
-   4. Adding Navigation
+   4. [Adding Navigation](./src/19.adding-navigation.md)
    5. Navigation Exercise 📝
    6. Navigation Exercise Solution 👀
 

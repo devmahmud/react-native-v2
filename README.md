@@ -42,7 +42,7 @@ This course is originally taken by [Kadi](https://github.com/kadikraman), senior
   4. [Pull to refresh](./src/25.pull-to-refresh.md)
 
 - Forms
-  1. Overview of Forms in React Native
+  1. [Overview of Forms in React Native](./src/26.forms-overview.md)
   2. Opening a full screen modal
   3. Form exercise 📝
   4. Form exercise solution 👀

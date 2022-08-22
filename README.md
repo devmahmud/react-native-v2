@@ -43,7 +43,7 @@ This course is originally taken by [Kadi](https://github.com/kadikraman), senior
 
 - Forms
   1. [Overview of Forms in React Native](./src/26.forms-overview.md)
-  2. Opening a full screen modal
+  2. [Opening a full screen modal](./src/27.full-screen-modal.md)
   3. Form exercise 📝
   4. Form exercise solution 👀
 

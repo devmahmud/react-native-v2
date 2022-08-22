@@ -52,5 +52,5 @@ This course is originally taken by [Kadi](https://github.com/kadikraman), senior
 
 - Extra Credit
   1. [[Expo] Ejecting from Expo](./src/31.ejecting-from-expo.md)
-  2. [Platform Specific Code](./src/31.platform-specific-code.md)
-  3. [Security](./src/32.security.md)
+  2. [Platform Specific Code](./src/32.platform-specific-code.md)
+  3. [Security](./src/33.security.md)

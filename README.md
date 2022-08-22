@@ -44,13 +44,13 @@ This course is originally taken by [Kadi](https://github.com/kadikraman), senior
 - Forms
   1. [Overview of Forms in React Native](./src/26.forms-overview.md)
   2. [Opening a full screen modal](./src/27.full-screen-modal.md)
-  3. Form exercise 📝
-  4. Form exercise solution 👀
+  3. [Form exercise 📝](./src/28.form-exercise.md)
+  4. [Form exercise solution 👀](./src/29.form-exercise-solution.md)
 
 - Conclusion
-  1. Wrapping up
+  1. [Wrapping up](./src/30.wrapping-up.md)
 
 - Extra Credit
-  1. [Expo] Ejecting from Expo
-  2. Platform Specific Code
-  3. Security
+  1. [[Expo] Ejecting from Expo](./src/31.ejecting-from-expo.md)
+  2. [Platform Specific Code](./src/31.platform-specific-code.md)
+  3. [Security](./src/32.security.md)
